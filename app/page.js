@@ -6,9 +6,9 @@ import { products } from "@/data/products.js";
 import Contacto from "./contacto/page";
 
 const carrousel = [
-  {id:1, src:"/pimienta.jfif", title:"Pimienta negra", price:2500},
-  {id:2, src:"/yerba.jfif", title:"Yerba artesanal", price:5500},
-  {id:3, src:"/licor.jfif", title:"Licor artesanal mandarina", price:5000},
+  {id:1, src:"/pimienta.jpg", title:"Pimienta negra", price:2500},
+  {id:2, src:"/yerba.jpg", title:"Yerba artesanal", price:5500},
+  {id:3, src:"/licor.jpg", title:"Licor artesanal mandarina", price:5000},
 ];
 
 
